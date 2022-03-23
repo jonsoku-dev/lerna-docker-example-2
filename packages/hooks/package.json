@@ -4,7 +4,7 @@
   "description": "Made with create-react-library",
   "author": "jonsoku2",
   "license": "MIT",
-  "repository": "jonsoku2/hooks",
+  "repository": "https://github.com/jonsoku2/lerna-docker-example-2",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
@@ -59,5 +59,5 @@
   "files": [
     "dist"
   ],
-  "gitHead": "8ddccffdcf0fcbb1f8c65d58a7a06bc1d1a14e54"
+  "gitHead": "24b5787415d96eb121dfba070f11fd1e84d87909"
 }
