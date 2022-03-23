@@ -1,5 +1,5 @@
 {
-  "name": "hooks",
+  "name": "@jonsoku/hookks",
   "version": "0.0.3",
   "description": "Made with create-react-library",
   "author": "jonsoku2",
@@ -59,5 +59,5 @@
   "files": [
     "dist"
   ],
-  "gitHead": "24b5787415d96eb121dfba070f11fd1e84d87909"
+  "gitHead": "d02f109b45e9eb88ca297e52f79ad8e0e5b3f225"
 }
